@@ -8,6 +8,10 @@ A small local server for `Groove Coaster 2: Original Style`, implemented with `P
 <summary>English</summary>
 <br>
 
+## Disclaimer
+
+This project has no affiliation with the GC2MRP. Their server is rewritten in Go and is not open source. For the sake or your privacy and data ownership, I only recommend solutions that are either self-hosted (local hosting or https://github.com/leohearts/groove_coaster_2_mobile_taroly_plugin) or an entirely offline solution (https://github.com/helloyanis/Groove2offline).
+
 ## Introduction
 
 This project is for game preservation purposes only. Creative liberty and conveniences have been taken when it comes to specific implementation. The goal is not to ensure 1:1 behavior, but to guarrantee the minimum viability of playing this game. It is provided as-is, per the GPLv2 license.
