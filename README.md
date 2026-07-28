@@ -10,7 +10,7 @@ A small local server for `Groove Coaster 2: Original Style`, implemented with `P
 
 ## Disclaimer
 
-This project has no affiliation with the GC2MRP. Their server is rewritten in Go and is not open source. For the sake or your privacy and data ownership, I only recommend solutions that are either self-hosted (local hosting or https://github.com/leohearts/groove_coaster_2_mobile_taroly_plugin) or an entirely offline solution (https://github.com/helloyanis/Groove2offline).
+This repo has no affiliation with the GC2MRP. Their server is rewritten in Golang and is not open source. For the sake of your privacy and data ownership, I only recommend solutions that are either self-hosted (local hosting or https://github.com/leohearts/groove_coaster_2_mobile_taroly_plugin) or an entirely offline solution (https://github.com/helloyanis/Groove2offline).
 
 ## Introduction
 
@@ -354,6 +354,10 @@ Features lost:
 <details>
 <summary>中文</summary>
 <br>
+
+## 说明
+
+本仓库和 GC2MRP 无任何关联。他们的方案是Golang重写的闭源代码。出于隐私和数据归属权考量，我只建议使用自己搭建的（本地搭建或者 https://github.com/leohearts/groove_coaster_2_mobile_taroly_plugin）或者完全离线的方案（https://github.com/helloyanis/Groove2offline）。
 
 ## 简介
 
